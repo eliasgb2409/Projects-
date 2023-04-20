@@ -1,0 +1,13 @@
+# Design
+This repository contains both side projects and projects completed for the course:
+ - IN2000 - Software Engineering with Project Work
+
+## Bastionen
+This is an initial version of a website design for Lyn's support club, Bastionen.
+
+## Prototype IN2000
+Our team developed an app for tourism in Oslo, and this is the final version of the interactive prototype that I designed with my group members.
+
+## Course pages
+- IN2000: Software Engineering with Project Work
+
