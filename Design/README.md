@@ -1,6 +1,8 @@
 # Design
 This repository contains both side projects and projects completed for the course:
  - IN2000 - Software Engineering with Project Work
+ 
+ Please open the files with the Figma application. 
 
 ## Bastionen
 This is an initial version of a website design for Lyn's support club, Bastionen.
