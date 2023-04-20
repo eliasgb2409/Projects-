@@ -6,6 +6,8 @@ This repository contains projects completed for the courses:
 
 Each project has its own directory within the repository, which contains the project files and a README file with instructions for running the program.
 
+There is also a directory for designs that I've made in figma. 
+
 ## IN3050 Projects
 The IN3050 projects included in this repository are:
 
