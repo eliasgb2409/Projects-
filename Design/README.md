@@ -14,6 +14,8 @@ Our team developed an app for tourism in Oslo, and this is the final version of 
 
 Link: https://www.figma.com/proto/oDHP55eSlvzvY4YX45yGM8/Wireframe?page-id=0%3A1&node-id=1-189&viewport=491%2C327%2C0.08&scaling=scale-down&starting-point-node-id=1%3A409
 
+This Figma prototype is designed to showcase the interactive components of the user interface. To identify which elements are clickable, simply click anywhere on the screen (ideally in the center). The clickable components will be highlighted, allowing you to easily explore and interact with the prototype's functionality.
+
 ## Course pages
 - IN2000: Software Engineering with Project Work: https://www.uio.no/studier/emner/matnat/ifi/IN2000/index-eng.html
 
