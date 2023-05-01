@@ -9,11 +9,11 @@ Each project has its own directory within the repository, which contains the pro
 There is also a directory for designs that I've made in figma. 
 
 ## IN3050 Projects
-The IN3050 projects included in this repository are:
+The IN3050 projects included in this repository are Jupyter Notebooks containing Python code:
 
-- Assignment 1: A Python program that solves a travelling salseman problem (TSP) using different methods such as evolutionary algorithms.
-- Assignment 2: A Python program that implements supervised learning for classification.
-- Assignment 3: A Python program that applies unsupervised learning.
+- Assignment 1: A Jupyter Notebook containing a Python program that solves a traveling salesman problem (TSP) using different methods such as evolutionary algorithms.
+- Assignment 2: A Jupyter Notebook containing a Python program that implements supervised learning for classification.
+- Assignment 3: A Jupyter Notebook containing a Python program that applies unsupervised learning.
 
 ## IN3110 Projects
 The IN3110 projects included in this repository are:
