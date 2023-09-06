@@ -5,7 +5,7 @@ This repository contains both side projects and projects completed for the cours
 Please access the files using the Figma application. In case this is not feasible, you may utilize the links provided beneath each project-heading.
 
 ## Bingers
-I'm working on a side project in which I aim to create a website where users can have profiles displaying the movies and TV series they've watched and their respective ratings. Users will be able to follow each other and view their friends' viewing history and opinions on different films. Below, you can find a link to the first draft for the website design.
+I'm working on a side project in which I aim to create a website where users can have profiles displaying the movies and TV series they've watched and their respective ratings. Users will be able to follow each other and view their friends' viewing history and opinions on different films. Below, you can find a link to the first draft for the website design (use the arrow keys to change slide).
 
 Link: https://www.figma.com/proto/yRv35MnY9bhMKPw5mFKZvL/bingers-design?page-id=0%3A1&type=design&node-id=1-79&viewport=375%2C-189%2C0.4&t=9ynyoQofV9Wn7eSe-1&scaling=contain&mode=design
 
