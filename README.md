@@ -28,9 +28,6 @@ The IN2090 projects included in this repository are:
 - Assignment 4: More advanced SQL script using a film database. 
 - Assignment 5: A Python program that contains SQL scripts using the database about planets.
 
-## Contributing
-Contributions to this repository are welcome! If you find a bug or have an idea for a new feature, please open an issue on the repository's issue tracker.
-
 ## Course pages
 - IN3050: https://www.uio.no/studier/emner/matnat/ifi/IN3050/index-eng.html
 - IN3110: https://www.uio.no/studier/emner/matnat/ifi/IN3110/index-eng.html
